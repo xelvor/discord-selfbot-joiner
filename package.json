@@ -1,0 +1,28 @@
+{
+  "name": "discord-selfbot-joiner",
+  "version": "1.0.0",
+  "description": "A Node.js package for joining Discord servers using selfbots with OAuth2 authentication.",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc"
+  },
+  "keywords": ["discord", "selfbot", "oauth2", "discord.js-selfbot-v13"],
+  "author": "xelvor",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xelvor/discord-selfbot-joiner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xelvor/discord-selfbot-joiner/issues"
+  },
+  "homepage": "https://github.com/xelvor/discord-selfbot-joiner#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js-selfbot-v13": "^3.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
