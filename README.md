@@ -5,6 +5,7 @@
 [![npm version](https://badge.fury.io/js/discord-selfbot-joiner.svg)](https://www.npmjs.com/package/discord-selfbot-joiner)
 [![GitHub issues](https://img.shields.io/github/issues/xelvor/discord-selfbot-joiner)](https://github.com/xelvor/discord-selfbot-joiner/issues)
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/xelvor/discord-selfbot-joiner/blob/main/LICENSE)
+[![Downloads](https://img.shields.io/npm/d18m/discord-selfbot-joiner.svg)](https://www.npmjs.com/package/discord-selfbot-joiner)
 
 A Node.js package for allowing a Discord selfbot to join servers by bypassing CAPTCHA with OAuth2 authentication. This package uses [discord.js-selfbot-v13](https://www.npmjs.com/package/discord.js-selfbot-v13) and `axios` for making API requests.
 
